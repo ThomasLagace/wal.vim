@@ -4,12 +4,13 @@
 
 A vim colorscheme for use with **[pywal](https://github.com/dylanaraps/pywal)**.
 
+This version includes a patch to make highlighted parenthesis more visable.
 
 ## Installation
 
 ```vim
 ! Using plug
-Plug 'dylanaraps/wal.vim'
+Plug 'ThomasLagace/wal.vim'
 
 colorscheme wal
 ```
